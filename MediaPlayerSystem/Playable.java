@@ -1,7 +1,7 @@
 package MediaPlayerSystem;
 
 public interface Playable {
-        void play();
+        void play ();
         void pause();
         void stop();
 

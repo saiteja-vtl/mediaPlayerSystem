@@ -25,7 +25,7 @@ class VideoPlayer implements Playable {
 
     @Override
     public void pause() {
-        System.out.println("Pausing video ");
+        System.out.println("Pausing video");
     }
 
     @Override
